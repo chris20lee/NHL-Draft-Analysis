@@ -105,6 +105,9 @@ a_data = draft_data[['Round', 'Ind', 'One']].groupby('Round').agg('sum').reset_i
 a_data['Percentage'] = a_data['Ind'] / a_data['One']
 a_xlabels = ['Round {}'.format(int(i)) for i in a_data['Round']]
 
+########################################################################################################################
+# Probability of Finding an NHL Player by Draft Round
+########################################################################################################################
 # Create 1st graph
 plt.figure(figsize=(4.5, 4), dpi=300)
 a_data.groupby('Round')['Percentage'].sum().plot(kind='bar')
@@ -120,6 +123,9 @@ plt.text(4.8, 70, ' NHL player is defined \n as having played more \n than 82 NH
 plt.savefig('{}/Results/Probability of Finding an NHL Player by Draft Round'.format(DATA_DIR))
 # plt.show()
 
+########################################################################################################################
+# Probability of Finding an NHL Player by Draft Position
+########################################################################################################################
 # Setup data for 2nd graph
 b_data = draft_data[['Overall', 'Ind', 'One']].groupby('Overall').agg('sum').reset_index()
 b_data['Percentage'] = b_data['Ind'] / b_data['One']
@@ -143,6 +149,9 @@ plt.plot(b_data['Overall'], p(b_data['Overall']))
 plt.savefig('{}/Results/Probability of Finding an NHL Player by Draft Position'.format(DATA_DIR))
 # plt.show()
 
+########################################################################################################################
+# NHL Players by Draft Round
+########################################################################################################################
 # Setup data for 3rd graph
 c_data = draft_data.groupby(['Round']).sum().reset_index()
 c_labels = ['Round {}'.format(int(i)) for i in c_data['Round'].unique()]
