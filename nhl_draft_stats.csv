@@ -1,0 +1,423 @@
+Overall,Year,Team,Player,Nat,Pos,Age,To,Amateur_Team,GP,G,A,PTS,+_-,PIM,Round
+1,2015,Edmonton Oilers,Connor McDavid,CA,C,18,2025.0,Erie Otters (OHL),664.0,346.0,664.0,1010.0,156.0,255.0,1.0
+2,2015,Buffalo Sabres,Jack Eichel,US,C,18,2025.0,Boston University (H-East),560.0,218.0,328.0,546.0,-26.0,189.0,1.0
+3,2015,Arizona Coyotes,Dylan Strome,CA,C,18,2025.0,Erie Otters (OHL),456.0,123.0,207.0,330.0,-29.0,140.0,1.0
+4,2015,Toronto Maple Leafs,Mitchell Marner,CA,C,18,2025.0,London Knights (OHL),597.0,202.0,465.0,667.0,116.0,188.0,1.0
+5,2015,Carolina Hurricanes,Noah Hanifin,US,D,18,2025.0,Boston College (H-East),699.0,65.0,232.0,297.0,-1.0,193.0,1.0
+6,2015,New Jersey Devils,Pavel Zacha,CZ,C,18,2025.0,Sarnia Sting (OHL),568.0,114.0,188.0,302.0,-29.0,153.0,1.0
+7,2015,Philadelphia Flyers,Ivan Provorov,RU,D,18,2025.0,Brandon Wheat Kings (WHL),634.0,71.0,184.0,255.0,-36.0,228.0,1.0
+8,2015,Columbus Blue Jackets,Zach Werenski,US,D,18,2025.0,Michigan (Big Ten),506.0,96.0,226.0,322.0,-4.0,119.0,1.0
+9,2015,San Jose Sharks,Timo Meier,CH,RW,18,2025.0,Halifax Mooseheads (QMJHL),564.0,198.0,198.0,396.0,-60.0,332.0,1.0
+10,2015,Colorado Avalanche,Mikko Rantanen,FI,RW,18,2025.0,TPS (Finland),591.0,276.0,373.0,649.0,83.0,364.0,1.0
+11,2015,Florida Panthers,Lawson Crouse,CA,LW,18,2025.0,Kingston Frontenacs (OHL),525.0,106.0,95.0,201.0,-51.0,339.0,1.0
+12,2015,Dallas Stars,Denis Gurianov,RU,RW,18,2024.0,Ladia Togliatti (Russia Jr.),298.0,52.0,61.0,113.0,-2.0,60.0,1.0
+13,2015,Boston Bruins,Jakub Zboril,CZ,D,18,2023.0,Saint John Sea Dogs (QMJHL),76.0,1.0,15.0,16.0,0.0,28.0,1.0
+14,2015,Boston Bruins,Jake Debrusk,CA,LW,18,2025.0,Swift Current Broncos (WHL),484.0,143.0,136.0,279.0,55.0,111.0,1.0
+15,2015,Boston Bruins,Zachary Senyshyn,CA,RW,18,2022.0,Soo Greyhounds (OHL),16.0,1.0,2.0,3.0,-1.0,4.0,1.0
+16,2015,New York Islanders,Mathew Barzal,CA,C,18,2025.0,Seattle Thunderbirds (WHL),510.0,130.0,317.0,447.0,-3.0,250.0,1.0
+17,2015,Winnipeg Jets,Kyle Connor,US,LW,18,2025.0,Youngstown Phantoms (USHL),552.0,256.0,255.0,511.0,-18.0,125.0,1.0
+18,2015,Ottawa Senators,Thomas Chabot,CA,D,18,2025.0,Saint John Sea Dogs (QMJHL),452.0,63.0,207.0,270.0,-74.0,228.0,1.0
+19,2015,Detroit Red Wings,Evgeny Svechnikov,RU,LW,18,2023.0,Cape Breton Screaming Eagles (QMJHL),172.0,20.0,25.0,45.0,-16.0,84.0,1.0
+20,2015,Minnesota Wild,Joel Eriksson Ek,SE,C,18,2025.0,Farjestad BK (Sweden),515.0,127.0,152.0,279.0,64.0,224.0,1.0
+21,2015,Ottawa Senators,Colin White,US,C,18,2024.0,USA U-18 Development Team (USDP/USHL),320.0,44.0,69.0,113.0,-57.0,107.0,1.0
+22,2015,Washington Capitals,Ilya Samsonov,RU,G,18,2025.0,Stalnye Lisy Magnitogorsk (Russia Jr.),178.0,0.0,4.0,4.0,0.0,4.0,1.0
+23,2015,Vancouver Canucks,Brock Boeser,US,RW,18,2025.0,Waterloo Black Hawks (USHL),491.0,185.0,210.0,395.0,-8.0,132.0,1.0
+24,2015,Philadelphia Flyers,Travis Konecny,CA,C,18,2025.0,Ottawa 67's (OHL),585.0,185.0,240.0,425.0,-32.0,437.0,1.0
+25,2015,Winnipeg Jets,Jack Roslovic,US,C,18,2025.0,USA U-18 Development Team (USDP/USHL),465.0,92.0,142.0,234.0,-21.0,74.0,1.0
+26,2015,Montreal Canadiens,Noah Juulsen,CA,D,18,2025.0,Everett Silvertips (WHL),130.0,3.0,14.0,17.0,-7.0,40.0,1.0
+27,2015,Anaheim Ducks,Jacob Larsson,SE,D,18,2023.0,Frolunda HC Jr. (Sweden Jr.),172.0,3.0,21.0,24.0,-26.0,52.0,1.0
+28,2015,New York Islanders,Anthony Beauvillier,CA,LW,18,2025.0,Shawinigan Cataractes (QMJHL),573.0,122.0,133.0,255.0,-21.0,109.0,1.0
+29,2015,Columbus Blue Jackets,Gabriel Carlsson,SE,D,18,2023.0,Linkoping HC Jr. (Sweden Jr.),81.0,3.0,15.0,18.0,-5.0,22.0,1.0
+30,2015,Arizona Coyotes,Nicholas Merkley,CA,RW,18,2022.0,Kelowna Rockets (WHL),41.0,4.0,11.0,15.0,-7.0,11.0,1.0
+31,2015,San Jose Sharks,Jeremy Roy,CA,D,18,0.0,Sherbrooke Phoenix (QMJHL),0.0,0.0,0.0,0.0,0.0,0.0,2.0
+32,2015,Arizona Coyotes,Christian Fischer,US,RW,18,2025.0,USA U-18 Development Team (USDP/USHL),496.0,62.0,70.0,132.0,-62.0,142.0,2.0
+33,2015,Tampa Bay Lightning,Mitchell Stephens,CA,C,18,2024.0,Saginaw Spirit (OHL),95.0,5.0,11.0,16.0,-20.0,22.0,2.0
+34,2015,Toronto Maple Leafs,Travis Dermott,CA,D,18,2025.0,Erie Otters (OHL),339.0,16.0,46.0,62.0,12.0,130.0,2.0
+35,2015,Carolina Hurricanes,Sebastian Aho,FI,RW,18,2025.0,Karpat (Finland),618.0,260.0,316.0,576.0,113.0,266.0,2.0
+36,2015,Ottawa Senators,Gabriel Gagne,CA,RW,18,0.0,Victoriaville Tigres (QMJHL),0.0,0.0,0.0,0.0,0.0,0.0,2.0
+37,2015,Boston Bruins,Brandon Carlo,US,D,18,2025.0,Tri-City Americans (WHL),576.0,29.0,74.0,103.0,121.0,313.0,2.0
+38,2015,Columbus Blue Jackets,Paul Bittner,US,LW,18,0.0,Portland Winterhawks (WHL),0.0,0.0,0.0,0.0,0.0,0.0,2.0
+39,2015,Colorado Avalanche,A.J. Greer,CA,LW,18,2025.0,Boston University (H-East),188.0,15.0,23.0,38.0,2.0,239.0,2.0
+40,2015,Colorado Avalanche,Nicolas Meloche,CA,D,18,2022.0,Baie-Comeau Drakkar (QMJHL),57.0,2.0,6.0,8.0,-16.0,39.0,2.0
+41,2015,New York Rangers,Ryan Gropp,CA,LW,18,0.0,Seattle Thunderbirds (WHL),0.0,0.0,0.0,0.0,0.0,0.0,2.0
+42,2015,New Jersey Devils,Mackenzie Blackwood,CA,G,18,2025.0,Barrie Colts (OHL),210.0,0.0,1.0,1.0,0.0,4.0,2.0
+43,2015,Los Angeles Kings,Erik Cernak,SK,D,18,2025.0,HC Kosice (Slovakia),384.0,20.0,73.0,93.0,69.0,329.0,2.0
+44,2015,Tampa Bay Lightning,Matthew Spencer,CA,D,18,0.0,Peterborough Petes (OHL),0.0,0.0,0.0,0.0,0.0,0.0,2.0
+45,2015,Boston Bruins,Jakob Forsbacka Karlsson,SE,C,18,2019.0,Omaha Lancers (USHL),29.0,3.0,6.0,9.0,1.0,2.0,2.0
+46,2015,Pittsburgh Penguins,Daniel Sprong,NL,RW,18,2025.0,Charlottetown Islanders (QMJHL),357.0,87.0,76.0,163.0,-4.0,68.0,2.0
+47,2015,Winnipeg Jets,Jansen Harkins,US,C,18,2025.0,Prince George Cougars (WHL),205.0,13.0,19.0,32.0,-14.0,59.0,2.0
+48,2015,Ottawa Senators,Filip Chlapik,CZ,C,18,2021.0,Charlottetown Islanders (QMJHL),57.0,5.0,6.0,11.0,-13.0,18.0,2.0
+49,2015,Dallas Stars,Roope Hintz,FI,LW,18,2025.0,Ilves (Finland),411.0,155.0,168.0,323.0,78.0,128.0,2.0
+50,2015,Minnesota Wild,Jordan Greenway,US,LW,18,2025.0,USA U-18 Development Team (USDP/USHL),417.0,55.0,102.0,157.0,29.0,302.0,2.0
+51,2015,Buffalo Sabres,Brendan Guhle,CA,D,18,2022.0,Prince Albert Raiders (WHL),65.0,4.0,10.0,14.0,-9.0,24.0,2.0
+52,2015,Boston Bruins,Jeremy Lauzon,CA,D,18,2025.0,Rouyn-Noranda Huskies (QMJHL),309.0,14.0,31.0,45.0,-12.0,335.0,2.0
+53,2015,Calgary Flames,Rasmus Andersson,SE,D,18,2025.0,Barrie Colts (OHL),476.0,41.0,172.0,213.0,24.0,229.0,2.0
+54,2015,Chicago Blackhawks,Graham Knott,CA,LW,18,0.0,Niagara IceDogs (OHL),0.0,0.0,0.0,0.0,0.0,0.0,2.0
+55,2015,Nashville Predators,Yakov Trenin,RU,C,18,2025.0,Gatineau Olympiques (QMJHL),319.0,48.0,35.0,83.0,25.0,174.0,2.0
+56,2015,St. Louis Blues,Vince Dunn,CA,D,18,2025.0,Niagara IceDogs (OHL),484.0,65.0,185.0,250.0,35.0,308.0,2.0
+57,2015,Washington Capitals,Jonas Siegenthaler,CH,D,18,2025.0,ZSC Lions (Swiss),335.0,9.0,55.0,64.0,31.0,173.0,2.0
+58,2015,Columbus Blue Jackets,Kevin Stenlund,SE,C,18,2025.0,HV71 Jr. (Sweden Jr.),227.0,29.0,18.0,47.0,-17.0,112.0,2.0
+59,2015,Anaheim Ducks,Julius Nattinen,FI,C,18,0.0,JYP-Aktemia (Finland-2),0.0,0.0,0.0,0.0,0.0,0.0,2.0
+60,2015,Calgary Flames,Oliver Kylington,SE,D,18,2025.0,Farjestad BK (Sweden),208.0,18.0,39.0,57.0,22.0,56.0,2.0
+61,2015,Toronto Maple Leafs,Jeremy Bracco,US,RW,18,0.0,USA U-18 Development Team (USDP/USHL),0.0,0.0,0.0,0.0,0.0,0.0,3.0
+62,2015,New York Rangers,Robin Kovacs,SE,RW,18,0.0,AIK (Sweden-2),0.0,0.0,0.0,0.0,0.0,0.0,3.0
+63,2015,Arizona Coyotes,Kyle Capobianco,CA,D,18,2023.0,Sudbury Wolves (OHL),73.0,5.0,7.0,12.0,-17.0,48.0,3.0
+64,2015,Tampa Bay Lightning,Dennis Yan,US,LW,18,0.0,Shawinigan Cataractes (QMJHL),0.0,0.0,0.0,0.0,0.0,0.0,3.0
+65,2015,Toronto Maple Leafs,Andrew Nielsen,CA,D,18,0.0,Lethbridge Hurricanes (WHL),0.0,0.0,0.0,0.0,0.0,0.0,3.0
+66,2015,Vancouver Canucks,Guillaume Brisebois,CA,D,18,2023.0,Acadie-Bathurst Titan (QMJHL),27.0,1.0,2.0,3.0,-7.0,6.0,3.0
+67,2015,New Jersey Devils,Blake Speers,CA,C,18,2022.0,Soo Greyhounds (OHL),5.0,0.0,0.0,0.0,-3.0,2.0,3.0
+68,2015,Toronto Maple Leafs,Martins Dzierkals,LV,LW,18,0.0,HK Riga (Russia Jr.),0.0,0.0,0.0,0.0,0.0,0.0,3.0
+69,2015,Columbus Blue Jackets,Keegan Kolesar,CA,RW,18,2025.0,Seattle Thunderbirds (WHL),296.0,32.0,51.0,83.0,-6.0,229.0,3.0
+70,2015,Philadelphia Flyers,Felix Sandstrom,SE,G,18,2024.0,Brynas IF Jr. (Sweden Jr.),30.0,0.0,0.0,0.0,0.0,0.0,3.0
+71,2015,Colorado Avalanche,Jean-Christophe Beaudin,CA,C,18,2020.0,Rouyn-Noranda Huskies (QMJHL),22.0,0.0,1.0,1.0,-4.0,7.0,3.0
+72,2015,Tampa Bay Lightning,Anthony Cirelli,CA,C,18,2025.0,Oshawa Generals (OHL),450.0,105.0,149.0,254.0,103.0,229.0,3.0
+73,2015,Detroit Red Wings,Vili Saarijarvi,FI,D,18,0.0,Green Bay Gamblers (USHL),0.0,0.0,0.0,0.0,0.0,0.0,3.0
+74,2015,Los Angeles Kings,Alexander Dergachyov,RU,C,18,0.0,SKA 1946 St. Petersburg (Russia Jr.),0.0,0.0,0.0,0.0,0.0,0.0,3.0
+75,2015,Boston Bruins,Daniel Vladar,CZ,G,18,2025.0,Rytiri Kladno (Czech-2),85.0,0.0,2.0,2.0,0.0,2.0,3.0
+76,2015,Arizona Coyotes,Adin Hill,CA,G,19,2025.0,Portland Winterhawks (WHL),150.0,0.0,4.0,4.0,0.0,4.0,3.0
+77,2015,Florida Panthers,Sam Montembeault,CA,G,18,2025.0,Blainville-Boisbriand Armada (QMJHL),160.0,0.0,3.0,3.0,0.0,0.0,3.0
+78,2015,Winnipeg Jets,Erik Foley,US,LW,18,0.0,Cedar Rapids RoughRiders (USHL),0.0,0.0,0.0,0.0,0.0,0.0,3.0
+79,2015,New York Rangers,Sergey Zborovskiy,RU,D,18,0.0,Regina Pats (WHL),0.0,0.0,0.0,0.0,0.0,0.0,3.0
+80,2015,Anaheim Ducks,Brent Gates,US,C,18,0.0,Green Bay Gamblers (USHL),0.0,0.0,0.0,0.0,0.0,0.0,3.0
+81,2015,Arizona Coyotes,Brendan Warren,US,LW,18,0.0,USA U-18 Development Team (USDP/USHL),0.0,0.0,0.0,0.0,0.0,0.0,3.0
+82,2015,New York Islanders,Mitchell Vande Sompel,CA,D,18,0.0,Oshawa Generals (OHL),0.0,0.0,0.0,0.0,0.0,0.0,3.0
+83,2015,Arizona Coyotes,Jens Looke,SE,RW,18,0.0,Brynas IF (Sweden),0.0,0.0,0.0,0.0,0.0,0.0,3.0
+84,2015,Anaheim Ducks,Deven Sideroff,CA,RW,18,0.0,Kamloops Blazers (WHL),0.0,0.0,0.0,0.0,0.0,0.0,3.0
+85,2015,Nashville Predators,Thomas Novak,US,C,18,2025.0,Waterloo Black Hawks (USHL),164.0,39.0,60.0,99.0,-2.0,22.0,3.0
+86,2015,San Jose Sharks,Mike Robinson,US,G,18,0.0,Lawrence Academy (High-MA),0.0,0.0,0.0,0.0,0.0,0.0,3.0
+87,2015,Montreal Canadiens,Lukas Vejdemo,SE,C,19,2022.0,Djurgardens IF Jr. (Sweden Jr.),13.0,2.0,0.0,2.0,-3.0,0.0,3.0
+88,2015,Florida Panthers,Thomas Schemitsch,CA,D,18,0.0,Owen Sound Attack (OHL),0.0,0.0,0.0,0.0,0.0,0.0,3.0
+89,2015,New York Rangers,Aleksi Saarela,FI,C,18,2020.0,Assat (Finland),9.0,2.0,2.0,4.0,2.0,0.0,3.0
+90,2015,Philadelphia Flyers,Matej Tomek,SK,G,18,0.0,Topeka Roadrunners (NAHL),0.0,0.0,0.0,0.0,0.0,0.0,3.0
+91,2015,Chicago Blackhawks,Dennis Gilbert,US,D,18,2025.0,Chicago Steel (USHL),88.0,3.0,11.0,14.0,-15.0,98.0,4.0
+92,2015,Buffalo Sabres,William Borgen,US,D,18,2025.0,Moorhead HS (High-MN),235.0,9.0,46.0,55.0,-9.0,146.0,4.0
+93,2015,Carolina Hurricanes,Callum Booth,CA,G,18,0.0,Quebec Remparts (QMJHL),0.0,0.0,0.0,0.0,0.0,0.0,4.0
+94,2015,St. Louis Blues,Adam Musil,CA,C,18,0.0,Red Deer Rebels (WHL),0.0,0.0,0.0,0.0,0.0,0.0,4.0
+95,2015,Toronto Maple Leafs,Jesper Lindgren,SE,D,18,0.0,MODO Hockey Jr. (Sweden Jr.),0.0,0.0,0.0,0.0,0.0,0.0,4.0
+96,2015,Carolina Hurricanes,Nicolas Roy,CA,C,18,2025.0,Chicoutimi Sagueneens (QMJHL),319.0,58.0,89.0,147.0,40.0,153.0,4.0
+97,2015,New Jersey Devils,Colton White,CA,D,18,2023.0,Soo Greyhounds (OHL),84.0,0.0,10.0,10.0,-20.0,22.0,4.0
+98,2015,Philadelphia Flyers,Samuel Dove-McFalls,CA,LW,18,0.0,Saint John Sea Dogs (QMJHL),0.0,0.0,0.0,0.0,0.0,0.0,4.0
+99,2015,Los Angeles Kings,Austin Wagner,CA,LW,18,2023.0,Regina Pats (WHL),178.0,23.0,19.0,42.0,-19.0,70.0,4.0
+100,2015,Nashville Predators,Anthony Richard,CA,C,18,2025.0,Val-d'Or Foreurs (QMJHL),31.0,6.0,8.0,14.0,4.0,8.0,4.0
+101,2015,Colorado Avalanche,Andrei Mironov,RU,D,21,2018.0,Dynamo Moskva (Russia),10.0,1.0,2.0,3.0,2.0,12.0,4.0
+102,2015,Florida Panthers,Denis Malgin,CH,C,18,2023.0,ZSC Lions (Swiss),257.0,41.0,40.0,81.0,-16.0,50.0,4.0
+103,2015,Dallas Stars,Chris Martenet,US,D,18,0.0,London Knights (OHL),0.0,0.0,0.0,0.0,0.0,0.0,4.0
+104,2015,Philadelphia Flyers,Mikhail Vorobyev,RU,C,18,2020.0,Tolpar Ufa (Russia Jr.),35.0,2.0,3.0,5.0,-5.0,8.0,4.0
+105,2015,Boston Bruins,Jesse Gabrielle,CA,LW,18,0.0,Regina Pats (WHL),0.0,0.0,0.0,0.0,0.0,0.0,4.0
+106,2015,San Jose Sharks,Adam Helewka,CA,LW,20,0.0,Spokane Chiefs (WHL),0.0,0.0,0.0,0.0,0.0,0.0,4.0
+107,2015,Ottawa Senators,Christian Wolanin,CA,D,20,2023.0,Muskegon Lumberjacks (USHL),86.0,6.0,17.0,23.0,-2.0,20.0,4.0
+108,2015,Winnipeg Jets,Michael Spacek,CZ,RW,18,0.0,HC Pardubice (Czech),0.0,0.0,0.0,0.0,0.0,0.0,4.0
+109,2015,Ottawa Senators,Filip Ahl,SE,LW,18,0.0,HV71 Jr. (Sweden Jr.),0.0,0.0,0.0,0.0,0.0,0.0,4.0
+110,2015,Detroit Red Wings,Joren Van Pottelberghe,CH,G,18,0.0,Linkoping HC Jr. (Sweden Jr.),0.0,0.0,0.0,0.0,0.0,0.0,4.0
+111,2015,Minnesota Wild,Ales Stezka,CZ,G,18,0.0,Bili Tygri Liberec Jr. (Czech Jr.),0.0,0.0,0.0,0.0,0.0,0.0,4.0
+112,2015,New York Islanders,Parker Wotherspoon,CA,D,18,2025.0,Tri-City Americans (WHL),65.0,0.0,9.0,9.0,9.0,39.0,4.0
+113,2015,New York Rangers,Brad Morrison,CA,C,18,0.0,Prince George Cougars (WHL),0.0,0.0,0.0,0.0,0.0,0.0,4.0
+114,2015,Vancouver Canucks,Dmitry Zhukenov,RU,C,18,0.0,Omskie Yastreby (Russia Jr.),0.0,0.0,0.0,0.0,0.0,0.0,4.0
+115,2015,Nashville Predators,Alexandre Carrier,CA,D,18,2025.0,Gatineau Olympiques (QMJHL),238.0,11.0,56.0,67.0,30.0,141.0,4.0
+116,2015,St. Louis Blues,Glenn Gawdin,CA,C,18,2024.0,Swift Current Broncos (WHL),13.0,0.0,1.0,1.0,-3.0,4.0,4.0
+117,2015,Edmonton Oilers,Caleb Jones,US,D,18,2025.0,USA U-18 Development Team (USDP/USHL),247.0,14.0,41.0,55.0,-37.0,90.0,4.0
+118,2015,Tampa Bay Lightning,Jonne Tammela,FI,RW,18,0.0,KalPa (Finland),0.0,0.0,0.0,0.0,0.0,0.0,4.0
+119,2015,New York Rangers,Daniel Bernhardt,SE,RW,19,0.0,Djurgardens IF Jr. (Sweden Jr.),0.0,0.0,0.0,0.0,0.0,0.0,4.0
+120,2015,Tampa Bay Lightning,Mathieu Joseph,CA,RW,18,2025.0,Saint John Sea Dogs (QMJHL),375.0,57.0,82.0,139.0,15.0,174.0,4.0
+121,2015,Chicago Blackhawks,Ryan Shea,US,D,18,2025.0,Boston College HS (High-MA),39.0,1.0,0.0,1.0,-3.0,6.0,5.0
+122,2015,Buffalo Sabres,Devante Stephens,CA,D,18,0.0,Kelowna Rockets (WHL),0.0,0.0,0.0,0.0,0.0,0.0,5.0
+123,2015,Arizona Coyotes,Conor Garland,US,RW,19,2025.0,Moncton Wildcats (QMJHL),423.0,108.0,148.0,256.0,34.0,171.0,5.0
+124,2015,Edmonton Oilers,Ethan Bear,CA,D,18,2024.0,Seattle Thunderbirds (WHL),275.0,17.0,50.0,67.0,-14.0,112.0,5.0
+125,2015,Toronto Maple Leafs,Dmytro Timashov,UA,LW,18,2021.0,Quebec Remparts (QMJHL),45.0,4.0,5.0,9.0,-1.0,16.0,5.0
+126,2015,Carolina Hurricanes,Luke Stevens,US,LW,18,0.0,Noble & Greenough School (High-MA),0.0,0.0,0.0,0.0,0.0,0.0,5.0
+127,2015,St. Louis Blues,Niko Mikkola,FI,D,19,2025.0,KalPa Jr. (Finland Jr.),273.0,8.0,41.0,49.0,1.0,215.0,5.0
+128,2015,Philadelphia Flyers,David Kase,CZ,RW,18,2021.0,Pirati Chomutov (Czech-2),7.0,1.0,0.0,1.0,1.0,0.0,5.0
+129,2015,Columbus Blue Jackets,Sam Ruopp,CA,D,19,0.0,Prince George Cougars (WHL),0.0,0.0,0.0,0.0,0.0,0.0,5.0
+130,2015,San Jose Sharks,Karlis Cukste,LV,D,18,0.0,HK Riga (Russia Jr.),0.0,0.0,0.0,0.0,0.0,0.0,5.0
+131,2015,Montreal Canadiens,Matthew Bradley,CA,C,18,0.0,Medicine Hat Tigers (WHL),0.0,0.0,0.0,0.0,0.0,0.0,5.0
+132,2015,Florida Panthers,Karch Bachman,US,LW,18,0.0,Culver Military Academy (High-IN),0.0,0.0,0.0,0.0,0.0,0.0,5.0
+133,2015,Dallas Stars,Joseph Cecconi,US,D,18,0.0,Muskegon Lumberjacks (USHL),0.0,0.0,0.0,0.0,0.0,0.0,5.0
+134,2015,Los Angeles Kings,Matt Schmalz,CA,RW,19,0.0,Sudbury Wolves (OHL),0.0,0.0,0.0,0.0,0.0,0.0,5.0
+135,2015,Minnesota Wild,Kirill Kaprizov,RU,LW,18,2025.0,Metallurg Novokuznetsk (Russia),297.0,173.0,191.0,364.0,68.0,137.0,5.0
+136,2015,Calgary Flames,Pavel Karnaukhov,BY,LW,18,0.0,Calgary Hitmen (WHL),0.0,0.0,0.0,0.0,0.0,0.0,5.0
+137,2015,Pittsburgh Penguins,Dominik Simon,CZ,C,21,2022.0,HC Plzen (Czech),256.0,22.0,55.0,77.0,0.0,80.0,5.0
+138,2015,Carolina Hurricanes,Spencer Smallman,CA,RW,19,0.0,Saint John Sea Dogs (QMJHL),0.0,0.0,0.0,0.0,0.0,0.0,5.0
+139,2015,Ottawa Senators,Christian Jaros,SK,D,19,2022.0,Lulea HF Jr. (Sweden Jr.),94.0,1.0,13.0,14.0,-24.0,37.0,5.0
+140,2015,Detroit Red Wings,Chase Pearson,CA,C,18,2022.0,Youngstown Phantoms (USHL),3.0,0.0,0.0,0.0,0.0,0.0,5.0
+141,2015,Columbus Blue Jackets,Veeti Vainio,FI,D,18,0.0,Blues Jr. (Finland Jr.),0.0,0.0,0.0,0.0,0.0,0.0,5.0
+142,2015,San Jose Sharks,Rudolfs Balcers,LV,LW,18,2023.0,Stavanger (Norway),170.0,28.0,34.0,62.0,-19.0,50.0,5.0
+143,2015,Washington Capitals,Connor Hobbs,CA,D,18,0.0,Regina Pats (WHL),0.0,0.0,0.0,0.0,0.0,0.0,5.0
+144,2015,Vancouver Canucks,Carl Neill,CA,D,19,0.0,Sherbrooke Phoenix (QMJHL),0.0,0.0,0.0,0.0,0.0,0.0,5.0
+145,2015,Nashville Predators,Karel Vejmelka,CZ,G,19,2025.0,HC Pardubice Jr. (Czech Jr.),150.0,0.0,2.0,2.0,0.0,4.0,5.0
+146,2015,St. Louis Blues,Luke Opilka,US,G,18,0.0,USA U-18 Development Team (USDP/USHL),0.0,0.0,0.0,0.0,0.0,0.0,5.0
+147,2015,New York Islanders,Ryan Pilon,CA,D,18,0.0,Brandon Wheat Kings (WHL),0.0,0.0,0.0,0.0,0.0,0.0,5.0
+148,2015,Anaheim Ducks,Troy Terry,US,C RW,18,2025.0,USA U-18 Development Team (USDP/USHL),369.0,101.0,141.0,242.0,-29.0,98.0,5.0
+149,2015,Vancouver Canucks,Adam Gaudette,US,C,18,2025.0,Cedar Rapids RoughRiders (USHL),239.0,35.0,44.0,79.0,-37.0,94.0,5.0
+150,2015,Tampa Bay Lightning,Ryan Zuhlsdorf,US,D,18,0.0,Sioux City Musketeers (USHL),0.0,0.0,0.0,0.0,0.0,0.0,5.0
+151,2015,Chicago Blackhawks,Radovan Bondra,SK,RW,18,0.0,HC Kosice (Slovakia),0.0,0.0,0.0,0.0,0.0,0.0,6.0
+152,2015,Buffalo Sabres,Giorgio Estephan,CA,C,18,0.0,Lethbridge Hurricanes (WHL),0.0,0.0,0.0,0.0,0.0,0.0,6.0
+153,2015,Tampa Bay Lightning,Kristian Oldham,US,G,18,0.0,Omaha Lancers (USHL),0.0,0.0,0.0,0.0,0.0,0.0,6.0
+154,2015,Edmonton Oilers,John Marino,US,D,18,2024.0,South Shore (USPHL Premier),328.0,18.0,89.0,107.0,38.0,112.0,6.0
+155,2015,Toronto Maple Leafs,Stephen Desrocher,CA,D,19,0.0,Oshawa Generals (OHL),0.0,0.0,0.0,0.0,0.0,0.0,6.0
+156,2015,Carolina Hurricanes,Jake Massie,CA,D,18,0.0,Kimball Union Academy (High-NH),0.0,0.0,0.0,0.0,0.0,0.0,6.0
+157,2015,New Jersey Devils,Brett Seney,CA,LW,19,2024.0,Merrimack (H-East),66.0,6.0,8.0,14.0,-17.0,39.0,6.0
+158,2015,Philadelphia Flyers,Cooper Marody,US,C,18,2022.0,Sioux Falls Stampede (USHL),7.0,0.0,1.0,1.0,-1.0,0.0,6.0
+159,2015,Columbus Blue Jackets,Vladislav Gavrikov,RU,D,19,2025.0,Lokomotiv Yaroslavl (Russia),374.0,26.0,87.0,113.0,10.0,172.0,6.0
+160,2015,San Jose Sharks,Adam Parsells,US,D,18,0.0,Wausau West HS (High-WI),0.0,0.0,0.0,0.0,0.0,0.0,6.0
+161,2015,Colorado Avalanche,Sergei Boikov,RU,D,19,0.0,Drummondville Voltigeurs (QMJHL),0.0,0.0,0.0,0.0,0.0,0.0,6.0
+162,2015,Florida Panthers,Christopher Wilkie,US,RW,19,0.0,Tri-City Storm (USHL),0.0,0.0,0.0,0.0,0.0,0.0,6.0
+163,2015,Dallas Stars,Markus Ruusu,FI,G,18,0.0,JYP Jr. (Finland Jr.),0.0,0.0,0.0,0.0,0.0,0.0,6.0
+164,2015,Chicago Blackhawks,Roy Radke,US,RW,18,0.0,Barrie Colts (OHL),0.0,0.0,0.0,0.0,0.0,0.0,6.0
+165,2015,Boston Bruins,Cameron Hughes,CA,C,18,2021.0,Wisconsin (Big Ten),2.0,0.0,0.0,0.0,-2.0,0.0,6.0
+166,2015,Calgary Flames,Andrew Mangiapane,CA,LW,19,2025.0,Barrie Colts (OHL),437.0,113.0,110.0,223.0,57.0,187.0,6.0
+167,2015,Pittsburgh Penguins,Frederik Tiffels,DE,LW,20,0.0,Western Michigan (NCHC),0.0,0.0,0.0,0.0,0.0,0.0,6.0
+168,2015,Winnipeg Jets,Mason Appleton,US,C,19,2025.0,Tri-City Storm (USHL),350.0,51.0,76.0,127.0,36.0,102.0,6.0
+169,2015,Carolina Hurricanes,David Cotton,US,C,18,0.0,Cushing Academy (High-MA),0.0,0.0,0.0,0.0,0.0,0.0,6.0
+170,2015,Detroit Red Wings,Patrick Holway,US,D,18,0.0,Boston (T1EHL 18U),0.0,0.0,0.0,0.0,0.0,0.0,6.0
+171,2015,Minnesota Wild,Nicholas Boka,US,D,18,0.0,USA U-18 Development Team (USDP/USHL),0.0,0.0,0.0,0.0,0.0,0.0,6.0
+172,2015,New York Islanders,Andong Song,CN,D,18,0.0,Lawrenceville School (High-NJ),0.0,0.0,0.0,0.0,0.0,0.0,6.0
+173,2015,Washington Capitals,Colby Williams,CA,D,20,0.0,Regina Pats (WHL),0.0,0.0,0.0,0.0,0.0,0.0,6.0
+174,2015,Vancouver Canucks,Lukas Jasek,CZ,RW,18,0.0,HC Ocelari Trinec (Czech),0.0,0.0,0.0,0.0,0.0,0.0,6.0
+175,2015,Nashville Predators,Tyler Moy,US,C,20,0.0,Harvard (ECAC),0.0,0.0,0.0,0.0,0.0,0.0,6.0
+176,2015,St. Louis Blues,Liam Dunda,US,LW,18,0.0,Owen Sound Attack (OHL),0.0,0.0,0.0,0.0,0.0,0.0,6.0
+177,2015,Montreal Canadiens,Simon Bourque,CA,D,18,0.0,Rimouski Oceanic (QMJHL),0.0,0.0,0.0,0.0,0.0,0.0,6.0
+178,2015,Anaheim Ducks,Steven Ruggiero,US,D,18,0.0,USA U-18 Development Team (USDP/USHL),0.0,0.0,0.0,0.0,0.0,0.0,6.0
+179,2015,Anaheim Ducks,Garrett Metcalf,US,G,19,0.0,Madison Capitols (USHL),0.0,0.0,0.0,0.0,0.0,0.0,6.0
+180,2015,Tampa Bay Lightning,Bokondji Imama,CA,LW,19,2024.0,Saint John Sea Dogs (QMJHL),15.0,1.0,0.0,1.0,-3.0,17.0,6.0
+181,2015,Chicago Blackhawks,Joni Tuulola,FI,D,19,0.0,HPK (Finland),0.0,0.0,0.0,0.0,0.0,0.0,7.0
+182,2015,Buffalo Sabres,Ivan Chukarov,US,D,20,0.0,Minnesota Wilderness (NAHL),0.0,0.0,0.0,0.0,0.0,0.0,7.0
+183,2015,Arizona Coyotes,Erik Kallgren,SE,G,18,2023.0,Linkoping HC Jr. (Sweden Jr.),24.0,0.0,0.0,0.0,0.0,2.0,7.0
+184,2015,New York Rangers,Adam Huska,SK,G,18,2022.0,Green Bay Gamblers (USHL),1.0,0.0,0.0,0.0,0.0,0.0,7.0
+185,2015,Toronto Maple Leafs,Nikita Korostelev,RU,RW,18,0.0,Sarnia Sting (OHL),0.0,0.0,0.0,0.0,0.0,0.0,7.0
+186,2015,Carolina Hurricanes,Steven Lorentz,CA,C; LW,19,2025.0,Peterborough Petes (OHL),251.0,24.0,23.0,47.0,-26.0,42.0,7.0
+187,2015,Los Angeles Kings,Chaz Reddekopp,CA,D,18,0.0,Victoria Royals (WHL),0.0,0.0,0.0,0.0,0.0,0.0,7.0
+188,2015,Philadelphia Flyers,Ivan Fedotov,RU,G,18,2025.0,Reaktor Nizhnekamsk (Russia Jr.),10.0,0.0,0.0,0.0,0.0,0.0,7.0
+189,2015,Columbus Blue Jackets,Markus Nutivaara,FI,D,21,2022.0,Karpat (Finland),275.0,17.0,54.0,71.0,26.0,42.0,7.0
+190,2015,San Jose Sharks,Marcus Vela,CA,C,18,0.0,Langley (BCHL),0.0,0.0,0.0,0.0,0.0,0.0,7.0
+191,2015,Colorado Avalanche,Gustav Olhaver,SE,C,18,0.0,Rogle BK Jr. (Sweden Jr.),0.0,0.0,0.0,0.0,0.0,0.0,7.0
+192,2015,Florida Panthers,Patrick Shea,US,C,18,0.0,Kimball Union Academy (High-NH),0.0,0.0,0.0,0.0,0.0,0.0,7.0
+193,2015,San Jose Sharks,John Kupsky,US,G,19,0.0,Lone Star Brahmas (NAHL),0.0,0.0,0.0,0.0,0.0,0.0,7.0
+194,2015,Los Angeles Kings,Matt Roy,CA,D,20,2025.0,Michigan Tech (WCHA),379.0,25.0,85.0,110.0,70.0,122.0,7.0
+195,2015,Boston Bruins,Jack Becker,US,C,18,0.0,Mahtomedi HS (High-MN),0.0,0.0,0.0,0.0,0.0,0.0,7.0
+196,2015,Calgary Flames,Riley Bruce,CA,D,18,0.0,North Bay Battalion (OHL),0.0,0.0,0.0,0.0,0.0,0.0,7.0
+197,2015,Pittsburgh Penguins,Nikita Pavlychev,RU,C,18,0.0,Des Moines Buccaneers (USHL),0.0,0.0,0.0,0.0,0.0,0.0,7.0
+198,2015,Winnipeg Jets,Sami Niku,FI,D,18,2022.0,JYP-Aktemia (Finland-2),67.0,2.0,14.0,16.0,-2.0,24.0,7.0
+199,2015,Ottawa Senators,Joey Daccord,US,G,19,2025.0,Cushing Academy (High-MA),83.0,0.0,0.0,0.0,0.0,0.0,7.0
+200,2015,Detroit Red Wings,Adam Marsh,US,LW,18,0.0,Saint John Sea Dogs (QMJHL),0.0,0.0,0.0,0.0,0.0,0.0,7.0
+201,2015,Minnesota Wild,Gustav Bouramman,SE,D,18,0.0,Soo Greyhounds (OHL),0.0,0.0,0.0,0.0,0.0,0.0,7.0
+202,2015,New York Islanders,Petter Hansson,SE,D,19,0.0,Linkoping HC Jr. (Sweden Jr.),0.0,0.0,0.0,0.0,0.0,0.0,7.0
+203,2015,Winnipeg Jets,Matteo Gennaro,CA,C,18,0.0,Prince Albert Raiders (WHL),0.0,0.0,0.0,0.0,0.0,0.0,7.0
+204,2015,Minnesota Wild,Jack Sadek,US,D,18,0.0,Lakeville North HS (High-MN),0.0,0.0,0.0,0.0,0.0,0.0,7.0
+205,2015,Nashville Predators,Evan Smith,US,G,18,0.0,Austin Bruins (NAHL),0.0,0.0,0.0,0.0,0.0,0.0,7.0
+206,2015,Florida Panthers,Ryan Bednard,US,G,18,0.0,Johnstown Tomahawks (NAHL),0.0,0.0,0.0,0.0,0.0,0.0,7.0
+207,2015,Montreal Canadiens,Jeremiah Addison,CA,LW,18,0.0,Ottawa 67's (OHL),0.0,0.0,0.0,0.0,0.0,0.0,7.0
+208,2015,Edmonton Oilers,Miroslav Svoboda,CZ,G,20,0.0,HC Ocelari Triec Jr. (Czech Jr.),0.0,0.0,0.0,0.0,0.0,0.0,7.0
+209,2015,Edmonton Oilers,Ziyat Paigin,RU,D,20,0.0,Ak Bars Kazan (Russia),0.0,0.0,0.0,0.0,0.0,0.0,7.0
+210,2015,Vancouver Canucks,Tate Olson,CA,D,18,0.0,Prince George Cougars (WHL),0.0,0.0,0.0,0.0,0.0,0.0,7.0
+211,2015,Chicago Blackhawks,John Dahlstrom,SE,RW,18,0.0,Frolunda HC Jr. (Sweden Jr.),0.0,0.0,0.0,0.0,0.0,0.0,8.0
+1,2016,Toronto Maple Leafs,Auston Matthews,US,C,18,2025.0,ZSC Lions (Swiss),575.0,373.0,287.0,660.0,142.0,118.0,1.0
+2,2016,Winnipeg Jets,Patrik Laine,FI,RW,18,2024.0,Tappara (Finland),480.0,204.0,184.0,388.0,-58.0,185.0,1.0
+3,2016,Columbus Blue Jackets,Pierre-Luc Dubois,CA,LW,18,2025.0,Cape Breton Screaming Eagles (QMJHL),536.0,147.0,208.0,355.0,7.0,465.0,1.0
+4,2016,Edmonton Oilers,Jesse Puljujarvi,SE,RW,18,2025.0,Karpat (Finland),376.0,57.0,69.0,126.0,5.0,122.0,1.0
+5,2016,Vancouver Canucks,Olli Juolevi,FI,D,18,2022.0,London Knights (OHL),41.0,2.0,1.0,3.0,-2.0,6.0,1.0
+6,2016,Calgary Flames,Matthew Tkachuk,US,LW,18,2025.0,London Knights (OHL),606.0,223.0,371.0,594.0,128.0,648.0,1.0
+7,2016,Arizona Coyotes,Clayton Keller,US,C,18,2025.0,USA U-18 Development Team (USDP/USHL),541.0,172.0,265.0,437.0,-64.0,211.0,1.0
+8,2016,Buffalo Sabres,Alexander Nylander,CA,LW,18,2025.0,Mississauga Steelheads (OHL),122.0,25.0,24.0,49.0,-10.0,26.0,1.0
+9,2016,Montreal Canadiens,Mikhail Sergachev,RU,D,18,2025.0,Windsor Spitfires (OHL),496.0,53.0,218.0,271.0,45.0,288.0,1.0
+10,2016,Colorado Avalanche,Tyson Jost,CA,C,18,2025.0,Penticton (BCHL),463.0,58.0,83.0,141.0,-13.0,164.0,1.0
+11,2016,Ottawa Senators,Logan Brown,US,C,18,2023.0,Windsor Spitfires (OHL),99.0,7.0,19.0,26.0,-9.0,22.0,1.0
+12,2016,New Jersey Devils,Michael McLeod,CA,C,18,2024.0,Mississauga Steelheads (OHL),287.0,29.0,56.0,85.0,-17.0,164.0,1.0
+13,2016,Carolina Hurricanes,Jake Bean,CA,D,18,2025.0,Calgary Hitmen (WHL),208.0,14.0,45.0,59.0,-19.0,76.0,1.0
+14,2016,Boston Bruins,Charles McAvoy,US,D,18,2025.0,Boston University (H-East),476.0,56.0,228.0,284.0,145.0,409.0,1.0
+15,2016,Minnesota Wild,Luke Kunin,US,C,18,2025.0,Wisconsin (Big Ten),382.0,66.0,66.0,132.0,-73.0,353.0,1.0
+16,2016,Arizona Coyotes,Jakob Chychrun,US,D,18,2025.0,Sarnia Sting (OHL),482.0,81.0,143.0,224.0,-60.0,322.0,1.0
+17,2016,Nashville Predators,Dante Fabbro,CA,D,18,2025.0,Penticton (BCHL),321.0,18.0,58.0,76.0,12.0,165.0,1.0
+18,2016,Winnipeg Jets,Logan Stanley,CA,D,18,2025.0,Windsor Spitfires (OHL),150.0,5.0,20.0,25.0,23.0,140.0,1.0
+19,2016,New York Islanders,Kieffer Bellows,US,LW,18,2023.0,USA U-18 Development Team (USDP/USHL),95.0,14.0,14.0,28.0,-6.0,31.0,1.0
+20,2016,Detroit Red Wings,Dennis Cholowski,CA,D,18,2025.0,Chilliwack (BCHL),130.0,12.0,22.0,34.0,-47.0,30.0,1.0
+21,2016,Carolina Hurricanes,Julien Gauthier,CA,RW,18,2025.0,Val-d'Or Foreurs (QMJHL),181.0,19.0,22.0,41.0,-25.0,44.0,1.0
+22,2016,Philadelphia Flyers,German Rubtsov,RU,C,18,2020.0,Team Russia Jr. (Russia Jr.),4.0,0.0,0.0,0.0,-1.0,0.0,1.0
+23,2016,Florida Panthers,Henrik BorgstrÃ¶m,FI,C,19,2023.0,HIFK Jr. (Finland Jr.),111.0,13.0,13.0,26.0,-31.0,28.0,1.0
+24,2016,Anaheim Ducks,Max Jones,US,LW,18,2025.0,London Knights (OHL),262.0,31.0,31.0,62.0,-48.0,219.0,1.0
+25,2016,Dallas Stars,Riley Tufte,US,LW,18,2025.0,Blaine HS (High-MN),21.0,2.0,1.0,3.0,-6.0,10.0,1.0
+26,2016,St. Louis Blues,Tage Thompson,US,C,18,2025.0,Connecticut (H-East),388.0,143.0,128.0,271.0,-47.0,172.0,1.0
+27,2016,Tampa Bay Lightning,Brett Howden,CA,C,18,2025.0,Moose Jaw Warriors (WHL),372.0,47.0,63.0,110.0,-29.0,169.0,1.0
+28,2016,Washington Capitals,Lucas Johansen,CA,D,18,2024.0,Kelowna Rockets (WHL),9.0,0.0,2.0,2.0,2.0,4.0,1.0
+29,2016,Boston Bruins,Trent Frederic,US,C,18,2025.0,USA U-18 Development Team (USDP/USHL),302.0,50.0,50.0,100.0,23.0,284.0,1.0
+30,2016,Anaheim Ducks,Sam Steel,CA,C,18,2025.0,Regina Pats (WHL),357.0,45.0,80.0,125.0,-24.0,105.0,1.0
+31,2016,Toronto Maple Leafs,Yegor Korshkov,RU,RW,20,2020.0,Lokomotiv Yaroslavl (Russia),1.0,1.0,0.0,1.0,1.0,0.0,2.0
+32,2016,Edmonton Oilers,Tyler Benson,CA,LW,18,2023.0,Vancouver Giants (WHL),38.0,1.0,2.0,3.0,-6.0,18.0,2.0
+33,2016,Buffalo Sabres,Rasmus Asplund,SE,C,18,2023.0,Farjestad BK (Sweden),183.0,18.0,31.0,49.0,-14.0,20.0,2.0
+34,2016,Columbus Blue Jackets,Andrew Peeke,US,D,18,2025.0,Green Bay Gamblers (USHL),249.0,10.0,37.0,47.0,-60.0,106.0,2.0
+35,2016,St. Louis Blues,Jordan Kyrou,CA,C,18,2025.0,Sarnia Sting (OHL),356.0,120.0,160.0,280.0,-37.0,92.0,2.0
+36,2016,Philadelphia Flyers,Pascal Laberge,CA,C,18,0.0,Victoriaville Tigres (QMJHL),0.0,0.0,0.0,0.0,0.0,0.0,2.0
+37,2016,Tampa Bay Lightning,Libor Hajek,CZ,D,18,2023.0,Saskatoon Blades (WHL),110.0,4.0,8.0,12.0,-9.0,40.0,2.0
+38,2016,Florida Panthers,Adam Mascherin,CA,LW,18,0.0,Kitchener Rangers (OHL),0.0,0.0,0.0,0.0,0.0,0.0,2.0
+39,2016,Chicago Blackhawks,Alexander Debrincat,US,RW,18,2025.0,Erie Otters (OHL),552.0,222.0,235.0,457.0,-54.0,148.0,2.0
+40,2016,Colorado Avalanche,Cameron Morrison,CA,LW,18,0.0,Youngstown Phantoms (USHL),0.0,0.0,0.0,0.0,0.0,0.0,2.0
+41,2016,New Jersey Devils,Nathan Bastian,CA,RW,18,2025.0,Mississauga Steelheads (OHL),229.0,31.0,32.0,63.0,-14.0,180.0,2.0
+42,2016,Ottawa Senators,Jonathan Dahlen,SE,C,18,2022.0,Timra IK (Sweden-2),61.0,12.0,10.0,22.0,-25.0,12.0,2.0
+43,2016,Carolina Hurricanes,Janne Kuokkanen,FI,C/LW,18,2022.0,Karpat Jr. (Finland Jr.),119.0,14.0,28.0,42.0,-26.0,28.0,2.0
+44,2016,Tampa Bay Lightning,Boris Katchouk,CA,LW,18,2024.0,Soo Greyhounds (OHL),176.0,15.0,21.0,36.0,-23.0,78.0,2.0
+45,2016,Chicago Blackhawks,Chad Krys,US,D,18,0.0,USA U-18 Development Team (USDP/USHL),0.0,0.0,0.0,0.0,0.0,0.0,2.0
+46,2016,Detroit Red Wings,Givani Smith,CA,RW,18,2025.0,Guelph Storm (OHL),160.0,9.0,13.0,22.0,-29.0,260.0,2.0
+47,2016,Nashville Predators,Samuel Girard,CA,D,18,2025.0,Shawinigan Cataractes (QMJHL),496.0,33.0,178.0,211.0,-1.0,97.0,2.0
+48,2016,Philadelphia Flyers,Carter Hart,CA,G,18,2024.0,Everett Silvertips (WHL),227.0,0.0,2.0,2.0,0.0,2.0,2.0
+49,2016,Boston Bruins,Ryan Lindgren,US,D,18,2025.0,USA U-18 Development Team (USDP/USHL),347.0,11.0,71.0,82.0,100.0,231.0,2.0
+50,2016,Chicago Blackhawks,Artur Kayumov,RU,W,18,0.0,Team Russia Jr. (Russia Jr.),0.0,0.0,0.0,0.0,0.0,0.0,2.0
+51,2016,Los Angeles Kings,Kale Clague,CA,D,18,2024.0,Brandon Wheat Kings (WHL),94.0,2.0,19.0,21.0,-22.0,52.0,2.0
+52,2016,Philadelphia Flyers,Wade Allison,CA,RW,18,2023.0,Tri-City Storm (USHL),75.0,13.0,9.0,22.0,-3.0,40.0,2.0
+53,2016,Detroit Red Wings,Filip Hronek,CZ,D,18,2025.0,Mountfield HK (Czech),409.0,36.0,177.0,213.0,-43.0,218.0,2.0
+54,2016,Calgary Flames,Tyler Parsons,US,G,18,0.0,London Knights (OHL),0.0,0.0,0.0,0.0,0.0,0.0,2.0
+55,2016,Pittsburgh Penguins,Filip Gustavsson,SE,G,18,2025.0,Lulea HF Jr. (Sweden Jr.),126.0,1.0,2.0,3.0,0.0,0.0,2.0
+56,2016,Calgary Flames,Dillon Dube,CA,C,18,2024.0,Kelowna Rockets (WHL),325.0,57.0,70.0,127.0,-17.0,105.0,2.0
+57,2016,Toronto Maple Leafs,Carl Grundstrom,SE,RW,18,2025.0,MODO Hockey (Sweden),256.0,40.0,31.0,71.0,-15.0,92.0,2.0
+58,2016,Tampa Bay Lightning,Taylor Raddysh,CA,RW,18,2025.0,Erie Otters (OHL),245.0,39.0,42.0,81.0,-48.0,50.0,2.0
+59,2016,St. Louis Blues,Evan Fitzpatrick,CA,G,18,0.0,Sherbrooke Phoenix (QMJHL),0.0,0.0,0.0,0.0,0.0,0.0,2.0
+60,2016,San Jose Sharks,Dylan Gambrell,US,C,20,2023.0,Denver (NCHC),233.0,17.0,23.0,40.0,-28.0,79.0,2.0
+61,2016,Pittsburgh Penguins,Kasper Bjorkqvist,FI,RW,19,2022.0,Blues Jr. (Finland Jr.),6.0,1.0,0.0,1.0,-1.0,2.0,3.0
+62,2016,Toronto Maple Leafs,Joseph Woll,US,G,18,2025.0,USA U-18 Development Team (USDP/USHL),43.0,0.0,0.0,0.0,0.0,2.0,3.0
+63,2016,Edmonton Oilers,Markus Niemelainen,FI,D,18,2023.0,Saginaw Spirit (OHL),43.0,0.0,1.0,1.0,-2.0,8.0,3.0
+64,2016,Vancouver Canucks,William Lockwood,US,RW,18,2024.0,USA U-18 Development Team (USDP/USHL),54.0,0.0,2.0,2.0,-10.0,27.0,3.0
+65,2016,Columbus Blue Jackets,Vitaly Abramov,RU,RW,18,2021.0,Gatineau Olympiques (QMJHL),5.0,1.0,0.0,1.0,-3.0,2.0,3.0
+66,2016,Calgary Flames,Adam Fox,US,D,18,2025.0,USA U-18 Development Team (USDP/USHL),376.0,53.0,272.0,325.0,112.0,154.0,3.0
+67,2016,Carolina Hurricanes,Matt Filipe,US,LW,18,0.0,Cedar Rapids RoughRiders (USHL),0.0,0.0,0.0,0.0,0.0,0.0,3.0
+68,2016,Arizona Coyotes,Cam Dineen,US,D,18,2022.0,North Bay Battalion (OHL),34.0,0.0,7.0,7.0,-16.0,4.0,3.0
+69,2016,Buffalo Sabres,Cliff Pu,CA,RW,18,0.0,London Knights (OHL),0.0,0.0,0.0,0.0,0.0,0.0,3.0
+70,2016,Montreal Canadiens,William Bitten,CA,C,18,2023.0,Flint Firebirds (OHL),4.0,0.0,1.0,1.0,1.0,0.0,3.0
+71,2016,Colorado Avalanche,Josh Anderson,CA,D,18,0.0,Prince George Cougars (WHL),0.0,0.0,0.0,0.0,0.0,0.0,3.0
+72,2016,Toronto Maple Leafs,James Greenway,US,D,18,0.0,USA U-18 Development Team (USDP/USHL),0.0,0.0,0.0,0.0,0.0,0.0,3.0
+73,2016,New Jersey Devils,Joseph Anderson,US,RW,18,2025.0,USA U-18 Development Team (USDP/USHL),163.0,19.0,21.0,40.0,-8.0,18.0,3.0
+74,2016,Carolina Hurricanes,Hudson Elynuik,CA,C,18,0.0,Spokane Chiefs (WHL),0.0,0.0,0.0,0.0,0.0,0.0,3.0
+75,2016,Carolina Hurricanes,Jack LaFontaine,CA,G,18,2022.0,Janesville Jets (NAHL),2.0,0.0,0.0,0.0,0.0,0.0,3.0
+76,2016,Nashville Predators,Rem Pitlick,CA,C,19,2024.0,Muskegon Lumberjacks (USHL),132.0,21.0,33.0,54.0,-27.0,54.0,3.0
+77,2016,Pittsburgh Penguins,Connor Hall,CA,D,18,0.0,Kitchener Rangers (OHL),0.0,0.0,0.0,0.0,0.0,0.0,3.0
+78,2016,Nashville Predators,Frederic Allard,CA,D,18,2023.0,Chicoutimi Sagueneens (QMJHL),4.0,0.0,0.0,0.0,0.0,0.0,3.0
+79,2016,Winnipeg Jets,Luke Green,CA,D,18,0.0,Saint John Sea Dogs (QMJHL),0.0,0.0,0.0,0.0,0.0,0.0,3.0
+80,2016,New Jersey Devils,Brandon Gignac,CA,C,18,2024.0,Shawinigan Cataractes (QMJHL),8.0,1.0,0.0,1.0,-5.0,0.0,3.0
+81,2016,New York Rangers,Sean Day,BE,D,18,2022.0,Mississauga Steelheads (OHL),2.0,0.0,0.0,0.0,-2.0,0.0,3.0
+82,2016,Philadelphia Flyers,Carsen Twarynski,CA,LW,18,2021.0,Calgary Hitmen (WHL),22.0,1.0,0.0,1.0,-5.0,6.0,3.0
+83,2016,Chicago Blackhawks,Wouter Peeters,BE,G,18,0.0,RB Hockey Juniors (RBHS Jr.),0.0,0.0,0.0,0.0,0.0,0.0,3.0
+84,2016,Edmonton Oilers,Matthew Cairns,CA,D,18,0.0,Georgetown (OJHL),0.0,0.0,0.0,0.0,0.0,0.0,3.0
+85,2016,Anaheim Ducks,Joshua Mahura,CA,D,18,2025.0,Red Deer Rebels (WHL),207.0,10.0,36.0,46.0,0.0,96.0,3.0
+86,2016,Buffalo Sabres,Casey Fitzgerald,US,D,19,2023.0,Boston College (H-East),63.0,0.0,9.0,9.0,-21.0,40.0,3.0
+87,2016,Washington Capitals,Garrett Pilon,CA,C,18,2022.0,Kamloops Blazers (WHL),3.0,1.0,0.0,1.0,1.0,0.0,3.0
+88,2016,Tampa Bay Lightning,Connor Ingram,CA,G,19,2025.0,Kamloops Blazers (WHL),93.0,0.0,3.0,3.0,0.0,4.0,3.0
+89,2016,Florida Panthers,Linus Nassen,SE,D,18,0.0,Lulea HF Jr. (Sweden Jr.),0.0,0.0,0.0,0.0,0.0,0.0,3.0
+90,2016,Dallas Stars,Fredrik Karlstrom,SE,C,18,2023.0,AIK Jr. (Sweden Jr.),8.0,0.0,1.0,1.0,3.0,0.0,3.0
+91,2016,Edmonton Oilers,Filip Berglund,SE,D,19,0.0,Skelleftea AIK Jr. (Sweden Jr.),0.0,0.0,0.0,0.0,0.0,0.0,4.0
+92,2016,Toronto Maple Leafs,Adam Brooks,CA,C,20,2022.0,Regina Pats (WHL),43.0,6.0,5.0,11.0,7.0,2.0,4.0
+93,2016,Anaheim Ducks,Jack Kopacka,US,LW,18,0.0,Soo Greyhounds (OHL),0.0,0.0,0.0,0.0,0.0,0.0,4.0
+94,2016,Florida Panthers,Jonathan Ang,CA,C,18,0.0,Peterborough Petes (OHL),0.0,0.0,0.0,0.0,0.0,0.0,4.0
+95,2016,New York Islanders,Anatoli Golyshev,RU,LW,21,0.0,Avtomobilist Yekaterinburg (Russia),0.0,0.0,0.0,0.0,0.0,0.0,4.0
+96,2016,Calgary Flames,Linus Lindstrom,SE,C,18,0.0,Skelleftea AIK Jr. (Sweden Jr.),0.0,0.0,0.0,0.0,0.0,0.0,4.0
+97,2016,Winnipeg Jets,Jacob Cederholm,SE,D,18,0.0,HV71 Jr. (Sweden Jr.),0.0,0.0,0.0,0.0,0.0,0.0,4.0
+98,2016,New York Rangers,Tarmo Reunanen,FI,D,18,2021.0,TPS Jr. (Finland Jr.),4.0,0.0,1.0,1.0,1.0,0.0,4.0
+99,2016,Buffalo Sabres,Brett Murray,CA,LW,18,2024.0,Carleton Place (CCHL),23.0,2.0,4.0,6.0,-3.0,25.0,4.0
+100,2016,Montreal Canadiens,Victor Mete,CA,D,18,2024.0,London Knights (OHL),248.0,5.0,40.0,45.0,19.0,46.0,4.0
+101,2016,Toronto Maple Leafs,Keaton Middleton,CA,D,18,2021.0,Saginaw Spirit (OHL),3.0,0.0,0.0,0.0,-1.0,4.0,4.0
+102,2016,New Jersey Devils,Mikhail Maltsev,RU,LW,18,2023.0,Team Russia Jr. (Russia Jr.),56.0,6.0,3.0,9.0,-9.0,6.0,4.0
+103,2016,Ottawa Senators,Todd Burgess,US,RW,20,0.0,Fairbanks Ice Dogs (NAHL),0.0,0.0,0.0,0.0,0.0,0.0,4.0
+104,2016,Carolina Hurricanes,Max Zimmer,US,LW,18,0.0,Chicago Steel (USHL),0.0,0.0,0.0,0.0,0.0,0.0,4.0
+105,2016,New Jersey Devils,Evan Cormier,CA,G,18,0.0,Saginaw Spirit (OHL),0.0,0.0,0.0,0.0,0.0,0.0,4.0
+106,2016,Minnesota Wild,Brandon Duhaime,US,RW,19,2025.0,Tri-City Storm (USHL),231.0,24.0,23.0,47.0,-1.0,257.0,4.0
+107,2016,Detroit Red Wings,Alfons Malmstrom,SE,D,18,0.0,Orebro HK Jr. (Sweden Jr.),0.0,0.0,0.0,0.0,0.0,0.0,4.0
+108,2016,Nashville Predators,Hardy Haman Aktell,SE,D,18,2024.0,Skelleftea AIK Jr. (Sweden Jr.),6.0,0.0,1.0,1.0,-2.0,2.0,4.0
+109,2016,Philadelphia Flyers,Connor Bunnaman,CA,C,18,2022.0,Kitchener Rangers (OHL),54.0,1.0,2.0,3.0,-6.0,8.0,4.0
+110,2016,Chicago Blackhawks,Lucas Carlsson,SE,D,19,2023.0,Brynas IF (Sweden),60.0,3.0,8.0,11.0,6.0,14.0,4.0
+111,2016,San Jose Sharks,Noah Gregor,CA,C,18,2025.0,Moose Jaw Warriors (WHL),257.0,34.0,32.0,66.0,-61.0,96.0,4.0
+112,2016,Los Angeles Kings,Jacob Moverare,SE,D,18,2025.0,HV71 Jr. (Sweden Jr.),48.0,1.0,2.0,3.0,3.0,8.0,4.0
+113,2016,Chicago Blackhawks,Nathan Noel,CA,C,19,0.0,Saint John Sea Dogs (QMJHL),0.0,0.0,0.0,0.0,0.0,0.0,4.0
+114,2016,Florida Panthers,Riley Stillman,CA,D,18,2023.0,Oshawa Generals (OHL),158.0,4.0,22.0,26.0,-19.0,104.0,4.0
+115,2016,Anaheim Ducks,Alex Dostie,CA,C,19,0.0,Gatineau Olympiques (QMJHL),0.0,0.0,0.0,0.0,0.0,0.0,4.0
+116,2016,Dallas Stars,Rhett Gardner,CA,C/LW,20,2024.0,North Dakota (NCHC),41.0,1.0,1.0,2.0,-10.0,10.0,4.0
+117,2016,Washington Capitals,Damien Riat,CH,LW,19,0.0,Geneve-Servette HC (Swiss),0.0,0.0,0.0,0.0,0.0,0.0,4.0
+118,2016,Tampa Bay Lightning,Ross Colton,US,C,20,2025.0,Cedar Rapids RoughRiders (USHL),280.0,72.0,60.0,132.0,-11.0,151.0,4.0
+119,2016,St. Louis Blues,Tanner Kaspick,CA,C,18,0.0,Brandon Wheat Kings (WHL),0.0,0.0,0.0,0.0,0.0,0.0,4.0
+120,2016,New York Islanders,Otto Koivula,FI,LW,18,2023.0,Ilves Jr. (Finland Jr.),28.0,0.0,4.0,4.0,-1.0,6.0,4.0
+121,2016,Pittsburgh Penguins,Ryan Jones,US,D,20,0.0,Lincoln Stars (USHL),0.0,0.0,0.0,0.0,0.0,0.0,5.0
+122,2016,Toronto Maple Leafs,Vladimir Bobylev,RU,RW,19,0.0,Victoria Royals (WHL),0.0,0.0,0.0,0.0,0.0,0.0,5.0
+123,2016,Edmonton Oilers,Dylan Wells,CA,G,18,2023.0,Peterborough Petes (OHL),1.0,0.0,0.0,0.0,0.0,0.0,5.0
+124,2016,Montreal Canadiens,Casey Staum,US,D,18,0.0,Hill-Murray HS (High-MN),0.0,0.0,0.0,0.0,0.0,0.0,5.0
+125,2016,St. Louis Blues,Nolan Stevens,CA,C,20,0.0,Northeastern (H-East),0.0,0.0,0.0,0.0,0.0,0.0,5.0
+126,2016,Calgary Flames,Mitchell Mattson,US,C,18,0.0,Grand Rapids HS (High-MN),0.0,0.0,0.0,0.0,0.0,0.0,5.0
+127,2016,Winnipeg Jets,Jordan Stallard,CA,C,18,0.0,Calgary Hitmen (WHL),0.0,0.0,0.0,0.0,0.0,0.0,5.0
+128,2016,Dallas Stars,Colton Point,CA,G,18,0.0,Carleton Place (CCHL),0.0,0.0,0.0,0.0,0.0,0.0,5.0
+129,2016,Buffalo Sabres,Philip Nyberg,SE,D,19,0.0,Linkoping HC Jr. (Sweden Jr.),0.0,0.0,0.0,0.0,0.0,0.0,5.0
+130,2016,Buffalo Sabres,Vojtech Budik,CZ,D,18,0.0,Prince Albert Raiders (WHL),0.0,0.0,0.0,0.0,0.0,0.0,5.0
+131,2016,Colorado Avalanche,Adam Werner,SE,G,19,2020.0,Farjestad BK Jr. (Sweden Jr.),2.0,0.0,0.0,0.0,0.0,0.0,5.0
+132,2016,New Jersey Devils,Yegor Rykov,RU,D,19,0.0,SKA 1946 St. Petersburg (Russia Jr.),0.0,0.0,0.0,0.0,0.0,0.0,5.0
+133,2016,Ottawa Senators,Maxime Lajoie,CA,D,18,2024.0,Swift Current Broncos (WHL),77.0,7.0,9.0,16.0,-22.0,20.0,5.0
+134,2016,Carolina Hurricanes,Jeremy Helvig,CA,G,19,0.0,Kingston Frontenacs (OHL),0.0,0.0,0.0,0.0,0.0,0.0,5.0
+135,2016,Boston Bruins,Joona Koppanen,FI,LW,18,2024.0,Ilves Jr. (Finland Jr.),9.0,0.0,1.0,1.0,0.0,4.0,5.0
+136,2016,Boston Bruins,Cameron Clarke,US,D,20,0.0,Lone Star Brahmas (NAHL),0.0,0.0,0.0,0.0,0.0,0.0,5.0
+137,2016,Detroit Red Wings,Jordan Sambrook,CA,D,18,0.0,Erie Otters (OHL),0.0,0.0,0.0,0.0,0.0,0.0,5.0
+138,2016,Nashville Predators,Patrick Harper,US,C,18,0.0,Avon Old Farms School (High-CT),0.0,0.0,0.0,0.0,0.0,0.0,5.0
+139,2016,Philadelphia Flyers,Linus Hogberg,SE,D,18,2022.0,Vaxjo Lakers HC Jr. (Sweden Jr.),5.0,0.0,2.0,2.0,0.0,2.0,5.0
+140,2016,Vancouver Canucks,Cole Candella,CA,D,18,0.0,Hamilton Bulldogs (OHL),0.0,0.0,0.0,0.0,0.0,0.0,5.0
+141,2016,New York Rangers,Timothy Gettinger,US,LW,18,2022.0,Soo Greyhounds (OHL),16.0,0.0,1.0,1.0,-1.0,0.0,5.0
+142,2016,Los Angeles Kings,Michael Eyssimont,US,C,20,2025.0,St. Cloud State (NCHC),154.0,16.0,25.0,41.0,7.0,191.0,5.0
+143,2016,Chicago Blackhawks,Mathias From,DK,W,18,0.0,Rogle BK Jr. (Sweden Jr.),0.0,0.0,0.0,0.0,0.0,0.0,5.0
+144,2016,St. Louis Blues,Conner Bleackley,CA,C,20,0.0,Red Deer Rebels (WHL),0.0,0.0,0.0,0.0,0.0,0.0,5.0
+145,2016,Washington Capitals,Beck Malenstyn,CA,LW,18,2025.0,Calgary Hitmen (WHL),126.0,9.0,18.0,27.0,-2.0,44.0,5.0
+146,2016,Dallas Stars,Nicholas Caamano,CA,RW,18,2021.0,Flint Firebirds (OHL),36.0,1.0,2.0,3.0,-5.0,21.0,5.0
+147,2016,Washington Capitals,Axel Jonsson-Fjallby,SE,LW,18,2024.0,Djurgardens IF Jr. (Sweden Jr.),99.0,10.0,13.0,23.0,5.0,12.0,5.0
+148,2016,Tampa Bay Lightning,Christopher Paquette,CA,C,18,0.0,Niagara IceDogs (OHL),0.0,0.0,0.0,0.0,0.0,0.0,5.0
+149,2016,Edmonton Oilers,Graham McPhee,US,LW,18,0.0,USA U-18 Development Team (USDP/USHL),0.0,0.0,0.0,0.0,0.0,0.0,5.0
+150,2016,San Jose Sharks,Manuel Wiederer,DE,C,19,0.0,Moncton Wildcats (QMJHL),0.0,0.0,0.0,0.0,0.0,0.0,5.0
+151,2016,Pittsburgh Penguins,Niclas Almari,FI,D,18,0.0,Jokerit Jr. (Finland Jr.),0.0,0.0,0.0,0.0,0.0,0.0,6.0
+152,2016,Toronto Maple Leafs,Jonathan Walker,US,D,20,0.0,Victoria Royals (WHL),0.0,0.0,0.0,0.0,0.0,0.0,6.0
+153,2016,Edmonton Oilers,Aapeli Rasanen,FI,C,18,0.0,Tappara Jr. (Finland Jr.),0.0,0.0,0.0,0.0,0.0,0.0,6.0
+154,2016,Vancouver Canucks,Jakob Stukel,CA,LW,19,0.0,Calgary Hitmen (WHL),0.0,0.0,0.0,0.0,0.0,0.0,6.0
+155,2016,Columbus Blue Jackets,Peter Thome,US,G,19,0.0,Aberdeen Wings (NAHL),0.0,0.0,0.0,0.0,0.0,0.0,6.0
+156,2016,Calgary Flames,Eetu Tuulola,FI,RW,18,0.0,HPK Jr. (Finland Jr.),0.0,0.0,0.0,0.0,0.0,0.0,6.0
+157,2016,Winnipeg Jets,Mikhail Berdin,RU,G,18,0.0,Team Russia Jr. (Russia Jr.),0.0,0.0,0.0,0.0,0.0,0.0,6.0
+158,2016,Arizona Coyotes,Patrick Kudla,CA,D,20,0.0,Oakville (OJHL),0.0,0.0,0.0,0.0,0.0,0.0,6.0
+159,2016,Buffalo Sabres,Brandon Hagel,CA,LW,18,2025.0,Red Deer Rebels (WHL),312.0,99.0,129.0,228.0,6.0,193.0,6.0
+160,2016,Montreal Canadiens,Michael Pezzetta,CA,C,18,2025.0,Sudbury Wolves (OHL),178.0,15.0,23.0,38.0,-8.0,221.0,6.0
+161,2016,Colorado Avalanche,Nathan Clurman,US,D,18,0.0,Culver Military Academy (High-IN),0.0,0.0,0.0,0.0,0.0,0.0,6.0
+162,2016,New Jersey Devils,Jesper Bratt,SE,W,18,2025.0,AIK (Sweden-2),494.0,139.0,248.0,387.0,-14.0,82.0,6.0
+163,2016,Ottawa Senators,Markus Nurmi,FI,RW,18,0.0,TPS Jr. (Finland Jr.),0.0,0.0,0.0,0.0,0.0,0.0,6.0
+164,2016,Carolina Hurricanes,Noah Carroll,CA,D,18,0.0,Guelph Storm (OHL),0.0,0.0,0.0,0.0,0.0,0.0,6.0
+165,2016,Boston Bruins,Oskar Steen,SE,C,18,2024.0,Farjestad BK Jr. (Sweden Jr.),60.0,4.0,4.0,8.0,-4.0,12.0,6.0
+166,2016,Calgary Flames,Matthew Phillips,CA,C,18,2024.0,Victoria Royals (WHL),34.0,1.0,4.0,5.0,-3.0,2.0,6.0
+167,2016,Detroit Red Wings,Filip Larsson,SE,G,18,0.0,Djurgardens IF Jr. (Sweden Jr.),0.0,0.0,0.0,0.0,0.0,0.0,6.0
+168,2016,Nashville Predators,Konstantin Volkov,RU,G,18,0.0,SKA 1946 St. Petersburg (Russia Jr.),0.0,0.0,0.0,0.0,0.0,0.0,6.0
+169,2016,Philadelphia Flyers,Tanner Laczynski,US,C,19,2023.0,Lincoln Stars (USHL),38.0,2.0,2.0,4.0,-5.0,2.0,6.0
+170,2016,New York Islanders,Collin Adams,US,LW,18,0.0,Muskegon Lumberjacks (USHL),0.0,0.0,0.0,0.0,0.0,0.0,6.0
+171,2016,New York Rangers,Gabriel Fontaine,CA,C,19,0.0,Rouyn-Noranda Huskies (QMJHL),0.0,0.0,0.0,0.0,0.0,0.0,6.0
+172,2016,Philadelphia Flyers,Anthony Salinitri,CA,C,18,0.0,Sarnia Sting (OHL),0.0,0.0,0.0,0.0,0.0,0.0,6.0
+173,2016,Chicago Blackhawks,Blake Hillman,US,D,20,2018.0,Denver (NCHC),4.0,1.0,0.0,1.0,-1.0,0.0,6.0
+174,2016,New York Rangers,Tyler Wall,CA,G,18,0.0,Leamington (GOJHL),0.0,0.0,0.0,0.0,0.0,0.0,6.0
+175,2016,Florida Panthers,Maxim Mamin,RU,C/RW,21,2022.0,CSKA Moskva (Russia),73.0,10.0,8.0,18.0,8.0,25.0,6.0
+176,2016,Dallas Stars,Jakob Stenqvist,SE,D,18,0.0,MODO Hockey Jr. (Sweden Jr.),0.0,0.0,0.0,0.0,0.0,0.0,6.0
+177,2016,Washington Capitals,Chase Priskie,US,D,20,2022.0,Quinnipiac (ECAC),4.0,0.0,0.0,0.0,2.0,2.0,6.0
+178,2016,Tampa Bay Lightning,Oleg Sosunov,RU,D,18,0.0,Loko-Yunior Yaroslav (Russia Jr.),0.0,0.0,0.0,0.0,0.0,0.0,6.0
+179,2016,Toronto Maple Leafs,Nicolas Mattinen,CA,D,18,0.0,London Knights (OHL),0.0,0.0,0.0,0.0,0.0,0.0,6.0
+180,2016,San Jose Sharks,Mark Shoemaker,CA,D,18,0.0,North Bay Battalion (OHL),0.0,0.0,0.0,0.0,0.0,0.0,6.0
+181,2016,Pittsburgh Penguins,Joseph Masonius,US,D,19,0.0,Connecticut (H-East),0.0,0.0,0.0,0.0,0.0,0.0,7.0
+182,2016,Toronto Maple Leafs,Nikolai Chebykin,RU,LW,19,0.0,HK MVD Balashikha (Russia Jr.),0.0,0.0,0.0,0.0,0.0,0.0,7.0
+183,2016,Edmonton Oilers,Vincent Desharnais,CA,D,20,2025.0,Providence (H-East),125.0,1.0,16.0,17.0,18.0,94.0,7.0
+184,2016,Vancouver Canucks,Rodrigo Abols,LV,C,20,0.0,Portland Winterhawks (WHL),0.0,0.0,0.0,0.0,0.0,0.0,7.0
+185,2016,Columbus Blue Jackets,Calvin Thurkauf,CH,C,19,2020.0,Kelowna Rockets (WHL),3.0,0.0,0.0,0.0,0.0,0.0,7.0
+186,2016,Calgary Flames,Stepan Falkovsky,BY,D,19,0.0,Ottawa 67's (OHL),0.0,0.0,0.0,0.0,0.0,0.0,7.0
+187,2016,Montreal Canadiens,Arvid Henrikson,SE,D,18,0.0,AIK Jr. (Sweden Jr.),0.0,0.0,0.0,0.0,0.0,0.0,7.0
+188,2016,Arizona Coyotes,Dean Stewart,CA,D,18,0.0,Portage (MJHL),0.0,0.0,0.0,0.0,0.0,0.0,7.0
+189,2016,Buffalo Sabres,Austin Osmanski,US,D,18,0.0,Mississauga Steelheads (OHL),0.0,0.0,0.0,0.0,0.0,0.0,7.0
+190,2016,Buffalo Sabres,Vasily Glotov,RU,C,19,0.0,Serebryanye Lvy St. Petersburg (Russia Jr.),0.0,0.0,0.0,0.0,0.0,0.0,7.0
+191,2016,Colorado Avalanche,Travis Barron,CA,LW,18,0.0,Ottawa 67's (OHL),0.0,0.0,0.0,0.0,0.0,0.0,7.0
+192,2016,New Jersey Devils,Jeremy Davies,CA,D,19,2023.0,Bloomington Thunder (USHL),23.0,0.0,3.0,3.0,-2.0,12.0,7.0
+193,2016,New York Islanders,Nick Pastujov,US,LW,18,0.0,USA U-18 Development Team (USDP/USHL),0.0,0.0,0.0,0.0,0.0,0.0,7.0
+194,2016,Vancouver Canucks,Brett McKenzie,CA,C,19,0.0,North Bay Battalion (OHL),0.0,0.0,0.0,0.0,0.0,0.0,7.0
+195,2016,Florida Panthers,Benjamin Finkelstein,US,D,18,0.0,Kimball Union Academy (High-NH),0.0,0.0,0.0,0.0,0.0,0.0,7.0
+196,2016,Minnesota Wild,Dmitry Sokolov,RU,RW,18,0.0,Sudbury Wolves (OHL),0.0,0.0,0.0,0.0,0.0,0.0,7.0
+197,2016,Detroit Red Wings,Mattias Elfstrom,SE,LW,19,0.0,Malmo Jr. (Sweden Jr.),0.0,0.0,0.0,0.0,0.0,0.0,7.0
+198,2016,Nashville Predators,Adam Smith,CA,D,19,0.0,Bowling Green (WCHA),0.0,0.0,0.0,0.0,0.0,0.0,7.0
+199,2016,Philadelphia Flyers,David Bernhardt,SE,D,18,0.0,Djurgardens IF Jr. (Sweden Jr.),0.0,0.0,0.0,0.0,0.0,0.0,7.0
+200,2016,New York Islanders,David Quenneville,CA,D,18,0.0,Medicine Hat Tigers (WHL),0.0,0.0,0.0,0.0,0.0,0.0,7.0
+201,2016,New York Rangers,Ty Ronning,CA,RW,18,0.0,Vancouver Giants (WHL),0.0,0.0,0.0,0.0,0.0,0.0,7.0
+202,2016,Los Angeles Kings,Jacob Friend,CA,D,19,0.0,Owen Sound Attack (OHL),0.0,0.0,0.0,0.0,0.0,0.0,7.0
+203,2016,Chicago Blackhawks,Jake Ryczek,US,D,18,0.0,Waterloo Black Hawks (USHL),0.0,0.0,0.0,0.0,0.0,0.0,7.0
+204,2016,Minnesota Wild,Brayden Chizen,CA,D,18,0.0,Kelowna Rockets (WHL),0.0,0.0,0.0,0.0,0.0,0.0,7.0
+205,2016,Anaheim Ducks,Tyler Soy,CA,C,19,0.0,Victoria Royals (WHL),0.0,0.0,0.0,0.0,0.0,0.0,7.0
+206,2016,Tampa Bay Lightning,Otto Somppi,FI,C,18,0.0,Halifax Mooseheads (QMJHL),0.0,0.0,0.0,0.0,0.0,0.0,7.0
+207,2016,Washington Capitals,Dmitriy Zaitsev,RU,D,18,0.0,Wilkes-Barre/Scranton Knights (NAHL),0.0,0.0,0.0,0.0,0.0,0.0,7.0
+208,2016,Tampa Bay Lightning,Ryan Lohin,US,C,20,0.0,Waterloo Black Hawks (USHL),0.0,0.0,0.0,0.0,0.0,0.0,7.0
+209,2016,St. Louis Blues,Nikolaj Krag Christensen,DK,C/LW,18,0.0,Rodovre (Denmark),0.0,0.0,0.0,0.0,0.0,0.0,7.0
+210,2016,San Jose Sharks,Joachim Blichfeld,DK,W,18,2021.0,Malmo Jr. (Sweden Jr.),8.0,1.0,0.0,1.0,-4.0,14.0,7.0
+211,2016,St. Louis Blues,Filip Helt,CZ,LW,18,0.0,HC Litvinov Jr. (Czech Jr.),0.0,0.0,0.0,0.0,0.0,0.0,8.0

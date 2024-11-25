@@ -9,8 +9,8 @@ from time import sleep
 from warnings import warn
 
 # Variables
-DATA_DIR = 'C:/Users/Chris/Google Drive/Sports Analytics/NHL Datasets'
-START_YEAR = 2000
+DATA_DIR = ('/Users/chrislee/PyCharmProjects/NHL-Draft-Analysis')
+START_YEAR = 2015
 END_YEAR = 2016
 draft_stats = pd.DataFrame()
 
@@ -45,7 +45,6 @@ def get_stats(soup, headers):
 
 # Clean up and format dataframe
 def format_dataframe(draft_stats):
-
     col_name = 'Year'
     save_col = draft_stats.pop(col_name)
     draft_stats.insert(1, col_name, save_col)
@@ -79,7 +78,8 @@ for year in range(START_YEAR, END_YEAR + 1):
         headers = get_header(html_soup)
 
     # Get player stats
-    draft_stats = draft_stats.append(get_stats(html_soup, headers), ignore_index=True)
+    # draft_stats = draft_stats.append(get_stats(html_soup, headers), ignore_index=True)
+    draft_stats = pd.concat([draft_stats, pd.DataFrame(get_stats(html_soup, headers))], ignore_index=True)
 
     print('Completed {}'.format(year))
 
@@ -110,8 +110,8 @@ plt.xticks(np.arange(len(a_xlabels)), labels=a_xlabels, rotation='horizontal', f
 plt.yticks(fontsize=7)
 plt.text(4.8, 70, ' NHL player is defined \n as having played more \n than 82 NHL games', fontsize=5)
 plt.tight_layout()
-plt.savefig('{}/Probability of Finding an NHL Player by Draft Round'.format(DATA_DIR))
-plt.show()
+plt.savefig('{}/Results/Probability of Finding an NHL Player by Draft Round'.format(DATA_DIR))
+# plt.show()
 
 # Setup data for 2nd graph
 b_data = draft_data[['Overall', 'Ind', 'One']].groupby('Overall').agg('sum').reset_index()
@@ -131,22 +131,21 @@ plt.text(180, 90, ' NHL player is defined \n as having played more \n than 82 NH
 curve_fit = np.polyfit(b_data['Overall'], b_data['Percentage'], 8)
 p = np.poly1d(curve_fit)
 plt.plot(b_data['Overall'], p(b_data['Overall']))
-# Display figure
 plt.tight_layout()
-plt.savefig('{}/Probability of Finding an NHL Player by Draft Position'.format(DATA_DIR))
-plt.show()
+plt.savefig('{}/Results/Probability of Finding an NHL Player by Draft Position'.format(DATA_DIR))
+# plt.show()
 
 # Setup data for 3rd graph
-c_data = [draft_data.loc[(draft_data['Round'] == i) & (draft_data['Ind'] == 1)].count()[0] for i in range(1, 8)]
-c_labels = ['Round {}'.format(i) for i in range(1, 8)]
+c_data = draft_data.groupby(['Round']).sum().reset_index()
+c_labels = ['Round {}'.format(int(i)) for i in c_data['Round'].unique()]
 
 # Create 3rd graph
 plt.figure(figsize=(4, 4), dpi=300)
-plt.pie(c_data, autopct='%.1f%%', textprops=dict(fontsize=7))
+plt.pie(c_data['Ind'], autopct='%.1f%%', textprops=dict(fontsize=7))
 plt.title('NHL Players by Draft Round \n ({} - {})'.format(START_YEAR, END_YEAR),
           fontdict={'fontsize': 9, 'fontweight': 'bold'})
 plt.legend(c_labels, loc="upper left", fontsize=4, frameon=False)
 plt.text(0.7, 1, ' NHL player is defined \n as having played more \n than 82 NHL games', fontsize=5)
 plt.tight_layout()
-plt.savefig('{}/NHL Players by Draft Round'.format(DATA_DIR))
-plt.show()
+plt.savefig('{}/Results/NHL Players by Draft Round'.format(DATA_DIR))
+# plt.show()
