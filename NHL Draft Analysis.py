@@ -1,6 +1,7 @@
 #Imports
 from bs4 import BeautifulSoup
 import matplotlib.pyplot as plt
+from matplotlib.ticker import PercentFormatter
 import numpy as np
 import pandas as pd
 from random import randint
@@ -10,9 +11,14 @@ from warnings import warn
 
 # Variables
 DATA_DIR = ('/Users/chrislee/PyCharmProjects/NHL-Draft-Analysis')
-START_YEAR = 2015
+START_YEAR = 2000
 END_YEAR = 2016
 draft_stats = pd.DataFrame()
+
+if START_YEAR == END_YEAR:
+    title_year_text = START_YEAR
+else:
+    title_year_text = '{} - {}'.format(START_YEAR, END_YEAR)
 
 # Functions
 def get_html(year):
@@ -96,42 +102,44 @@ draft_data['One'] = 1
 
 # Setup data for 1st graph
 a_data = draft_data[['Round', 'Ind', 'One']].groupby('Round').agg('sum').reset_index()
-a_data['Percentage'] = 100 * a_data['Ind'] / a_data['One']
-a_xlabels = ['Round {}'.format(round(i)) for i in a_data['Round']]
+a_data['Percentage'] = a_data['Ind'] / a_data['One']
+a_xlabels = ['Round {}'.format(int(i)) for i in a_data['Round']]
 
 # Create 1st graph
 plt.figure(figsize=(4.5, 4), dpi=300)
 a_data.groupby('Round')['Percentage'].sum().plot(kind='bar')
-plt.title('Probability of Finding an NHL Player \n by Draft Round ({} - {})'.format(START_YEAR, END_YEAR),
+plt.title('Probability of Finding an NHL Player \n by Draft Round ({})'.format(title_year_text),
           fontdict={'fontsize': 9, 'fontweight': 'bold'})
 plt.xlabel(None)
-plt.ylabel('Percentage (%)', fontsize=8)
+plt.ylabel('Percentage', fontsize=8)
 plt.xticks(np.arange(len(a_xlabels)), labels=a_xlabels, rotation='horizontal', fontsize=5)
 plt.yticks(fontsize=7)
+plt.gca().yaxis.set_major_formatter(PercentFormatter(1))
+plt.ylim(0, 1)
 plt.text(4.8, 70, ' NHL player is defined \n as having played more \n than 82 NHL games', fontsize=5)
-plt.tight_layout()
 plt.savefig('{}/Results/Probability of Finding an NHL Player by Draft Round'.format(DATA_DIR))
 # plt.show()
 
 # Setup data for 2nd graph
 b_data = draft_data[['Overall', 'Ind', 'One']].groupby('Overall').agg('sum').reset_index()
-b_data['Percentage'] = 100 * b_data['Ind'] / b_data['One']
+b_data['Percentage'] = b_data['Ind'] / b_data['One']
 
 # Create 2nd graph
 plt.figure(figsize=(6, 4), dpi=300)
 plt.scatter(b_data['Overall'], b_data['Percentage'], s=1, c=[(0.60, 0.60, 0.60)])
-plt.title('Probability of Finding an NHL Player \n by Draft Position ({} - {})'.format(START_YEAR, END_YEAR),
+plt.title('Probability of Finding an NHL Player \n by Draft Position ({})'.format(title_year_text),
           fontdict={'fontsize': 9, 'fontweight': 'bold'})
 plt.xlabel('Draft Position', fontsize=8)
-plt.ylabel('Percentage (%)', fontsize=8)
+plt.ylabel('Percentage', fontsize=8)
 plt.xticks(np.arange(211)[::10], np.array([i for i in range(1, 212)])[::10], fontsize=5)
 plt.yticks(fontsize=7)
+plt.gca().yaxis.set_major_formatter(PercentFormatter(1))
+plt.ylim(0, 1)
 plt.text(180, 90, ' NHL player is defined \n as having played more \n than 82 NHL games', fontsize=5)
 # Line of best fit
 curve_fit = np.polyfit(b_data['Overall'], b_data['Percentage'], 8)
 p = np.poly1d(curve_fit)
 plt.plot(b_data['Overall'], p(b_data['Overall']))
-plt.tight_layout()
 plt.savefig('{}/Results/Probability of Finding an NHL Player by Draft Position'.format(DATA_DIR))
 # plt.show()
 
@@ -142,10 +150,9 @@ c_labels = ['Round {}'.format(int(i)) for i in c_data['Round'].unique()]
 # Create 3rd graph
 plt.figure(figsize=(4, 4), dpi=300)
 plt.pie(c_data['Ind'], autopct='%.1f%%', textprops=dict(fontsize=7))
-plt.title('NHL Players by Draft Round \n ({} - {})'.format(START_YEAR, END_YEAR),
+plt.title('NHL Players by Draft Round \n ({})'.format(title_year_text),
           fontdict={'fontsize': 9, 'fontweight': 'bold'})
 plt.legend(c_labels, loc="upper left", fontsize=4, frameon=False)
 plt.text(0.7, 1, ' NHL player is defined \n as having played more \n than 82 NHL games', fontsize=5)
-plt.tight_layout()
 plt.savefig('{}/Results/NHL Players by Draft Round'.format(DATA_DIR))
 # plt.show()
